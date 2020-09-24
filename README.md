@@ -4,8 +4,8 @@ Source code for [quantiom.me](http://quantiom.me), made in React
 
 ### Scripts
 
--   Start: `npm start`
--   Build: `npm build`
+-   Start: `npm run start`
+-   Build: `npm run build`
 
 ### Preview
 
