@@ -1,6 +1,6 @@
-# quantiom.wtf
+# quantiom.me
 
-Source code for [quantiom.wtf](http://quantiom.wtf), made in React
+Source code for [quantiom.me](http://quantiom.me), made in React
 
 ### Scripts
 
