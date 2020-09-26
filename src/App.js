@@ -74,7 +74,7 @@ function App() {
                 </div>
 
                 <h1 className="name">normie</h1>
-                <a className="description">Java, NodeJS and C++ Developer</a>
+                <a className="description">Java, NodeJS, and C++ Developer</a>
 
                 <div className="socials">
                     <SocialButton icon={faTwitter} href="https://twitter.com/AscendenteA" />
