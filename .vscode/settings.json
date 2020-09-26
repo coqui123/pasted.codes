@@ -1,3 +1,6 @@
 {
-    "workbench.colorTheme": "GitHub Dark"
+    "workbench.colorTheme": "GitHub Dark",
+    "workbench.preferredHighContrastColorTheme": "GitHub Dark",
+    "workbench.preferredLightColorTheme": "GitHub Dark",
+    "workbench.preferredDarkColorTheme": "GitHub Dark"
 }
