@@ -69,7 +69,7 @@ function App() {
                     <img
                         className="pfp"
                         alt="GitHub Profile Picture"
-                        src="https://avatars2.githubusercontent.com/u/35455461?s=460&u=f6d0c9dd2873df4bbdc0fa2ec44a136a786647a5"
+                        src="https://avatars2.githubusercontent.com/u/38964599?s=400&u=f5a025125c876849fb5508646d1aa469937a02fd&v=4"
                     />
                 </div>
 
@@ -77,10 +77,10 @@ function App() {
                 <a className="description">Java, NodeJS and C++ Developer</a>
 
                 <div className="socials">
-                    <SocialButton icon={faTwitter} href="https://twitter.com/quantiom_" />
-                    <SocialButton icon={faGithub} href="https://github.com/quantiom" />
-                    <SocialButton icon={faDiscord} href="https://discordhub.com/profile/487814439655964683" />
-                    <SocialButton icon={faEnvelope} href="mailto:quantiom@riseup.net" />
+                    <SocialButton icon={faTwitter} href="https://twitter.com/AscendenteA" />
+                    <SocialButton icon={faGithub} href="https://github.com/coqui123" />
+                    <SocialButton icon={faDiscord} href="https://discordhub.com/profile/167782318927249409" />
+                    <SocialButton icon={faEnvelope} href="mailto:bigpapilobster@gmail.com" />
                 </div>
             </div>
         </div>
