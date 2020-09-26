@@ -1,6 +1,6 @@
-# quantiom.me
+# fork of quantiom.me
 
-Source code for [quantiom.me](http://quantiom.me), made in React
+Source code for [pasted.codes](http://pasted.codes), made in React
 
 ### Scripts
 
