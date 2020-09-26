@@ -73,7 +73,7 @@ function App() {
                     />
                 </div>
 
-                <h1 className="name">quantiom</h1>
+                <h1 className="name">normie</h1>
                 <a className="description">Java, NodeJS and C++ Developer</a>
 
                 <div className="socials">
