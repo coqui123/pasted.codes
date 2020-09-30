@@ -21,7 +21,7 @@ function App() {
                                 },
                             },
                             color: {
-                                value: '#fff',
+                                value: '#eba434',
                             },
                             shape: {
                                 type: 'triangle',
